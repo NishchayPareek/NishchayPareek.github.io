@@ -1,0 +1,91 @@
+.header
+{
+    /* height: 75px; */
+    font-size: 25pt;
+    margin-left:25px;
+    
+   
+}
+.nav-link:hover,.nav-link:active
+{
+    color:rgb(109, 201, 109);
+    transition: 1s;
+}
+.nav-link:active
+{
+   text-decoration: underline white;
+}
+body{
+    background-color: black;
+}
+.row{
+    color: white;
+}
+.home
+{
+margin-top: 50px;
+margin-left: 100px;
+}
+.photo{
+    height: 400px;
+    width: 350px;
+    border-radius: 50%;
+    border-width: 100px;
+    border-color: rgb(16,16,16);
+
+}
+.intro
+{
+    padding-top:100px ;
+    padding-bottom: 200px;
+    font-family: "roboto", sans-serif;
+}
+.hello
+{background-color: #0bceaf;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-family: "roboto", sans-serif;
+}
+a:visited{
+    color:white;  
+}
+h1{
+    font-size: 75pt;
+}
+.icons:hover
+{
+    color:grey;
+    transition: 0.5s;
+}
+.social
+{   margin-top: 30px;
+ 
+}
+.developer
+{
+    height: 400px;
+    width: 400px;
+}
+.About
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.skills
+{
+    border: 1px solid #0bceaf;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
