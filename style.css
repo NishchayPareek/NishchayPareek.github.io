@@ -6,15 +6,17 @@
     
    
 }
-.nav-link:hover,.nav-link:active
+/* .nav-link:hover
 {
-    color:rgb(109, 201, 109);
-    transition: 1s;
+   
+     
+} */
+.active
+{   background-color:rgb(109, 201, 109); 
+    /* text-decoration: underline; */
 }
-.nav-link:active
-{
-   text-decoration: underline white;
-}
+
+
 body{
     background-color: black;
 }
